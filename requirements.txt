@@ -1,0 +1,7 @@
+playsound
+SpeechRecognition
+gtts
+pyaudio
+beautifulsoup4
+yagmail
+selenium
